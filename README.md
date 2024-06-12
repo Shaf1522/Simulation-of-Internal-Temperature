@@ -1,4 +1,4 @@
-# Simulation-of-Internal-Temperature
+# Simulation of Internal Temperature
 
 Simulation code developed in Python to simulate theoretical internal temperatures of a food unit while its heating using measured values of  the Length, Thickness(Height), Thermal Conductivity, Density, and Specific Heat of that unit. 
 
