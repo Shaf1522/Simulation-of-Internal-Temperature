@@ -18,6 +18,6 @@ cp = 3810
 
 Where L is Length, H is Thickness/Height, k is Thermal Conductivity, rho is Density, and cp is specific heat.
 
-## Result Fourier Simulation Plots
+## Results & Fourier Simulation Plots
 
 Resulting plots of the simulation can be viewed in the Results folder. After every 3 minutes, a new fourier plot is created.
