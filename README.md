@@ -1,1 +1,1 @@
-# imulation-of-Internal-Temperature
+# Simulation-of-Internal-Temperature
